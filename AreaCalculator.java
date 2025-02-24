@@ -10,4 +10,9 @@ public class AreaCalculator {
     public static double rectangleArea(double base, double height) {
         return base * height;
     }
+
+    // método triángulo creado por Yael
+    public static double trianguloArea(double base, double height){
+        return (base*height)/2;
+    }
 }
