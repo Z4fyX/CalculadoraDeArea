@@ -10,4 +10,5 @@ public class AreaCalculator {
     public static double rectangleArea(double base, double height) {
         return base * height;
     }
+    xd
 }
