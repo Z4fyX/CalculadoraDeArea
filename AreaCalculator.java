@@ -10,4 +10,10 @@ public class AreaCalculator {
     public static double rectangleArea(double base, double height) {
         return base * height;
     }
+
+    // método para calcular el área del triángulo
+    public static double triangleArea(double base, double height) {
+        return (base * height) / 2;
+    }
+    
 }
